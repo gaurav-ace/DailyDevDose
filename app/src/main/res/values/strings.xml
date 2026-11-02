@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DevAgent</string>
+    <string name="widget_description">Daily learning goals and top AI / system design headlines</string>
+</resources>
